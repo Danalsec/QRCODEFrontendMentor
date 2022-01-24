@@ -23,8 +23,8 @@ This challenge is about creating a QR code card that directs the user to the Fro
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://qrcodex01.netlify.app/)
+- Solution URL: [Solution site](https://your-solution-url.com)
+- Live Site URL: [Live site](https://qrcodex01.netlify.app/)
 
 ## My process
 
