@@ -23,7 +23,7 @@ This challenge is about creating a QR code card that directs the user to the Fro
 
 ### Links
 
-- Solution URL: [Solution site](https://your-solution-url.com)
+- Solution URL: [Solution site](https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-38XEjHXG2)
 - Live Site URL: [Live site](https://qrcodex01.netlify.app/)
 
 ## My process
